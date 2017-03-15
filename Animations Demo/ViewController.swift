@@ -67,7 +67,7 @@ class SecondViewController: UIViewController {
         bird1.alpha = 0.0
         bird2.alpha = 0.0
         bird3.alpha = 0.0
-        
+        //testingSecondVc for github
     }
     
     override func viewDidAppear(_ animated: Bool) {
