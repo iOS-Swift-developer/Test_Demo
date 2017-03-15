@@ -45,7 +45,7 @@ class ViewController: UIViewController {
         passwordTxtFld.layer.borderWidth = 2
         passwordTxtFld.layer.cornerRadius = 5
         loginBtn.layer.cornerRadius = 15
-        
+        //Testing for commit purpose.
     }
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
